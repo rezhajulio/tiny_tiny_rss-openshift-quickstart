@@ -1,5 +1,8 @@
 This is an OpenShift quickstart for Tiny Tiny RSS.
 
+## DEPRECATED
+## OPENSHIFT2 HAS BEEN SHUTDOWN ON 30 SEPTEMBER 2017
+
 Creating an Openshift TT-RSS app:
 =================================
 
